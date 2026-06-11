@@ -1,5 +1,5 @@
 # procedural-wallpaper-renderer
-WIP! This is a Wayland procedural wallpaper renderer supporting OpenGL.
+WIP! This is a procedural OpenGL wallpaper renderer supporting Wayland.
 
 ## Supported Compositors
 
